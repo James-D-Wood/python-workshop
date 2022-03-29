@@ -1,0 +1,8 @@
+matplotlib
+nltk
+notebook
+numpy
+Pillow
+plotly
+requests
+wordcloud
