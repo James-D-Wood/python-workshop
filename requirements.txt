@@ -2,6 +2,7 @@ matplotlib
 nltk
 notebook
 numpy
+pandas
 Pillow
 plotly
 requests
